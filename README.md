@@ -13,7 +13,7 @@ It showcases who I am, the projects I've worked on, and how to contact me.
 - CSS3
 
 ## 📍 Live Demo
-[Click here to view it live](https://yourusername.github.io/my-portfolio/)
+[Click here to view it live](https://xcstacy07.github.io)
 
 ---
 
